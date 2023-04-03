@@ -6,11 +6,11 @@ Our group is composed of five members: Giraudo Giacomo, Leardi Ludovico, Menardi
 
 Giraudo Giraudo worked on Tello drone with Pellegrino Gabriele;
 
-Leardi Ludovico worked on Leap sensor whith Serra Alberto;
+Leardi Ludovico worked on Leap sensor with Serra Alberto;
 
 Menardi Samuele worked on Muse2;
 
-The next days Leardi and Serra decided to abort the work on the leap sensor casue the high amount of sensors to use. In case of problems we have decided to work together so that we can solve them easily. After we became to join our different tasks and start improving the final product to present.
+The next days Leardi and Serra decided to abort the work on the leap sensor casue the high amount of sensors to use. After we became to join our different tasks and start improving the final product to present.
 
 
 # INSTRUCTIONS FOR USE
@@ -23,5 +23,6 @@ Then you have to switch on the bluetooth on your pc and start the software of Bl
 Instead, to use Tello, you have to connect your device to Tello's wifi.
 
 # LIBRARIES TO DOWNLOAD
+
 
 # FILES TO RUN
