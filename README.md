@@ -37,7 +37,7 @@ The other libraries are already in python (es: time)
 
 You must also download two folder and one file from this directory: 
 
-Folders names: "muselsl" and "__pycache__"
+Folders names: "muselsl" and "__ pycache__"
 
 File name: "utils.py"
 
