@@ -21,3 +21,5 @@ Enter in that field and run : InstallBlueMuse.ps1
 Then you have to switch on the bluetooth on your pc and start the software of BlueMuse and click on "Start Streaming" and the Muse2 will start to recorder data.
 
 While, to use Tello, you have to connect your device to Tello's wifi.
+
+# LIBRARIES TO DOWNLOAD
