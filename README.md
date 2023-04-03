@@ -23,3 +23,5 @@ Then you have to switch on the bluetooth on your pc and start the software of Bl
 While, to use Tello, you have to connect your device to Tello's wifi.
 
 # LIBRARIES TO DOWNLOAD
+
+# FILES TO RUN
