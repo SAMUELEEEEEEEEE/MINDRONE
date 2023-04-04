@@ -43,4 +43,4 @@ File name: "utils.py"
 
 
 # FILES TO RUN
-Yet to be updated...
+On the upper folder, Release, run the file Launcher.py
