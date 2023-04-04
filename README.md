@@ -3,14 +3,11 @@ Our project is thought for people suffering from ALS (Amyotrophic Lateral Sclero
 
 Our group is composed of five members: Giraudo Giacomo, Leardi Ludovico, Menardi Samuele, Pellegrino Gabriele and Serra Alberto. At the beginning we choose the leader, Menardi Samuele, and subsequently we divided various tasks:
 
-Giraudo Giraudo worked on Tello drone with Pellegrino Gabriele;
+Menardi Samuele, the leader, who takes care of the organization of the work and coordination of the team in addition to the study, development and programming of the sensor Muse2.
 
-Leardi Ludovico worked on Leap sensor with Serra Alberto;
+Giraudo Giacomo and Pellegrino Gabriele, drone managers, adduced to the development, study, and drone programming.
 
-Menardi Samuele worked on Muse2;
-
-The next days Leardi and Serra decided to abort the work on the leap sensor casue the high amount of sensors to use. After we became to join our different tasks and start improving the final product to present.
-
+Leardi Ludovico and Serra Alberto, sensors managers, adduced to thestudy, development and programming of the Muse2 sensor.
 
 # INSTRUCTIONS FOR USE
 At the beginning, you have to click on this link and download all the folder: https://github.com/kowalej/BlueMuse , then must unzip this folder: https://github.com/kowalej/BlueMuse/blob/master/DistArchived/BlueMuse_2.0.0.0.zip
