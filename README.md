@@ -28,7 +28,7 @@ Write on terminal this string to download the library to control Tello drone: pi
 
 Write on terminal this string to download the library: pip install numpy
 
-Write on terminal this string to download the library fo python interface to the Lab Streaming Layer (LSL): pip install pylsl
+Write on terminal this string to download the library for python interface to the Lab Streaming Layer (LSL): pip install pylsl
 
 The other libraries are already in python (es: time)
 
