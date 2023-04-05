@@ -37,4 +37,4 @@ The other libraries are already in python (es: time)
 
 
 # FILES TO RUN
-Run the file "Launcher.py" from the releaase folder.
+Run the file "Launcher.py" from the release folder.
