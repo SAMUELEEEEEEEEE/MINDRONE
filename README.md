@@ -14,9 +14,11 @@ At the beginning, you have to click on this link and download all the folder: ht
 
 Enter in that folder and run : InstallBlueMuse.ps1 with PowerShell (you must activate developer mode from the pc settings).
 
-Then you have to switch on the bluetooth on your pc and start the software of BlueMuse and click on "Start Streaming" and the Muse2 will start to recorder data.
+Then you have to switch on the bluetooth on your pc and start the software of BlueMuse and click on "Start Streaming" and the Muse2 will start to record data.
 
 Instead, to use Tello, you have to connect your device to Tello's wifi.
+
+You can download the latest release from the "Release" folder above
 
 
 # LIBRARIES TO DOWNLOAD
@@ -31,12 +33,6 @@ Write on terminal this string to download the library: pip install numpy
 Write on terminal this string to download the library for python interface to the Lab Streaming Layer (LSL): pip install pylsl
 
 The other libraries are already in python (es: time)
-
-You must also download two folder and one file from this directory: 
-
-Folders names: "muselsl" and "__ pycache__"
-
-File name: "utils.py"
 
 
 # FILES TO RUN
