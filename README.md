@@ -1,5 +1,5 @@
 # PROJECT AND GROUP DESCRIPTION
-Our project is thought for people suffering from ALS (Amyotrophic Lateral Sclerosis) or multiple sclerosis and allow them to visit museums directly from their home through a drone called Tello. For people suffering from ASL that, in the advanced states of the disease, can't move any muscle, we developed an automatic flight mode. The user can continue to use the power of the brain concentration. We are able to catch brain waves through a device called Muse2. After receiving a minimum signal of concentration, the drone rises and follows a pre-set path, in which it scans the qr codes and shows the corresponding image of a certain artistic work. While, if users are suffering from multiple sclerosis and they can move neck muscles, they can activate a second mode based on the movements of the neck to manage the direction of the drone in museums. Everything is developed in python.
+Our project is thought for people suffering from ALS (Amyotrophic Lateral Sclerosis) or multiple sclerosis and allows them to visit museums directly from their home through a drone called Tello. For people suffering from ASL who, in the advanced states of the disease, can't move any muscle, we developed an automatic flight mode. The user can continue to use the power of the brain concentration. We are able to catch brain waves through a device called Muse2. After receiving a minimum signal of concentration, the drone rises and follows a pre-set path, in which it scans the qr codes and shows the corresponding image of a certain artistic work. While, if users are suffering from multiple sclerosis and they can move neck muscles, they can activate a second mode based on the movements of the neck to manage the direction of the drone in museums. Everything is developed in python.
 
 Our group is composed of five members: Giraudo Giacomo, Leardi Ludovico, Menardi Samuele, Pellegrino Gabriele and Serra Alberto. At the beginning we choose the leader, Menardi Samuele, and subsequently we divided various tasks:
 
@@ -7,7 +7,7 @@ Menardi Samuele, the leader, who takes care of the organization of the work and 
 
 Giraudo Giacomo and Pellegrino Gabriele, drone managers, adduced to the development, study, and drone programming.
 
-Serra Alberto, qr-code managers, adduced to the study and developmet about qr-codes.
+Serra Alberto, qr-code manager, adduced to the study and development about qr-codes.
 
 # INSTRUCTIONS FOR USE
 You can download the latest release from the "Release" folder above.
