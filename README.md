@@ -23,6 +23,9 @@ Instead, to use Tello, you have to connect your device to Tello's wifi.
 
 
 # LIBRARIES TO DOWNLOAD
+Libraries used in python3:
+cv2, djitellopy, pylsl and numpy
+
 To allow the project programs to work, you must install these libraries for python:
 
 Write on terminal this string to download opencv library: pip install opencv-python
@@ -36,5 +39,9 @@ Write on terminal this string to download the library for python interface to th
 The other libraries are already in python (es: time)
 
 
-# FILES TO RUN
-Run the file "Launcher.py" from the release folder.
+# EXECUTION
+You must connect the drone via Wifi as well as the Muse2 via Bluetooth.
+
+After, you have to run BlueMuse and click on "Start Streaming".
+
+At the end, you have to open a terminal window and run the file "Launcher.py" from the release folder (Release_0.0.2).
